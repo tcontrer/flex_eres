@@ -1,0 +1,15 @@
+Defining Conda Paths
+Sourcing Conda
+Finished!
+Num events after cut = 2702/10000
+ OptimizeWarning was raised for seed  = GaussPar(mu=Measurement(value=2214308.273076923, uncertainty=79.97988711677664), std=Measurement(value=4078.190051033923, uncertainty=56.565199507944975), amp=Measurement(value=373.6578457446994, uncertainty=141.78792844675843)) due to OptimizeWarning
+1.3 mm size, 3.5 pitch-------------------
+Coverage = 13.56793128395485
+Mean and std 2193298.106957809 141366.38614463888
+Eres err 0.006003261133489971
+  Fit was valid = False
+ Emu       = 2214308.273076923 +-79.97988711677664 
+ E sigma   = 4078.190051033923 +-56.565199507944975 
+ chi2    = nan 
+ Eres(FWHM)     (%) =0.4328099540816189
+ Eres (FWHM) Qbb (%) =0.05589825229483065 

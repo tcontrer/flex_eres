@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/n/holystore01/LABS/guenette_lab/Lab/data/NEXT/FLEX/mc/eres_22072022/eres_taylor/update_width.py", line 70, in <module>
+    GetWidth(this_pmap_file, this_kdst_file, this_outfile)
+  File "/n/holystore01/LABS/guenette_lab/Lab/data/NEXT/FLEX/mc/eres_22072022/eres_taylor/update_width.py", line 30, in GetWidth
+    eff              = nevts_after / nevts_before
+ZeroDivisionError: division by zero

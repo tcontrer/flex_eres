@@ -1,0 +1,1 @@
+{"size": 3.0, "pitch": 5.5, "name": "3.0 mm size, 5.5 pitch", "num_sipms": 24748, "coverage": 29.28886475043297, "rcut": 300.0, "sthresh": 0, "sipm_eres": 2.597750320574154, "sipm_fwhm": 2614.990795998436, "sipm_mean": 100663.66945613432, "sipm_eres_err": 0.0342688937310409, "sipm_fwhm_err": 14.6703752996568, "sipm_mean_err": 19.68790905646629, "sipm_chi2": 0.8997379264503905}
